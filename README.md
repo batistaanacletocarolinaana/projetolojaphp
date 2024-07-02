@@ -1,4 +1,9 @@
-## SHOES IMPORT- Projeto php para a disciplina do grau tecnico
+## SHOES IMPORT- Projeto php para a disciplina do grau tecnico unidade campina grande-PB.
+
+### Grupo: 
+- Ana carolina anacleto
+- Woshigton (@Woshigameplay)
+- Evandro lucas anacleto
 
 
 <p align="center">
